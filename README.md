@@ -1,2 +1,3 @@
 # COMP4920
-Ethics 
+Ethics Course
+Mark: 75/100
